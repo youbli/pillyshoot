@@ -1,0 +1,26 @@
+ .pillyshoot__title{
+    display:flex;
+    height: 46vh;
+    width: 100%;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius:  50px;
+    background-color: #ADC6FF;
+}
+.camera__btn{
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    box-shadow: 0px 0px 20px rgb(101, 141, 236,.5);
+    border-radius: 36px;
+    position: absolute;
+    left:50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.camera__btn i{
+    
+    
+    color:#ADC6FF ;
+}

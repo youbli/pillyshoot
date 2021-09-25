@@ -1,0 +1,9 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+/*components*/
+@import "components/nav-bar.css";
+@import "components/title.css";
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
