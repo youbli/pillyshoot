@@ -3,6 +3,8 @@
 /*components*/
 @import "components/nav-bar.css";
 @import "components/title.css";
+@import "components/user-component.css";
+@import "components/login.css";
 
 body{
     font-family: 'Noto Sans', sans-serif;
