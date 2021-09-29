@@ -10,3 +10,11 @@
 .box {
 	padding-left: 10%; padding-right: 10%; padding-top: 5%; color: #adc6ff;
 }
+
+.box {
+	color: white;
+        background-color: #adc6ff;
+        margin-bottom: 10%;
+        margin-left: 10%;
+        border-color: #adc6ff;
+}
