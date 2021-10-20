@@ -1,13 +1,23 @@
+.navbar{
+	background: #adc6ff;
+	color: white;
+	text-align:center;
+	padding:4%;
+}
+.navbar-brand {
+	color: white;
+	font-size:160%;
+}
 .table {
 	
 	border-color:#ADC6FF;
 	width:100%;
-	line-height:200%;
+	line-height:250%;
 }
 
 .name {
-	background: #ADC6FF;
-	color: white;
+	background: white;
+	color: #ADC6FF;
 	width:100px;
 }
 .post {
@@ -31,7 +41,15 @@
 	background:#ADC6FF;
 	border:0px;
 	color:white;
-	width:10%;
+	width:20%;
+	line-height:200%;
+	border-radius:7px;
+}
+.write-btn {
+	background:white;
+	border-color:#ADC6FF;
+	color:#ADC6FF;
+	width:20%;
 	line-height:200%;
 	border-radius:7px;
 }
